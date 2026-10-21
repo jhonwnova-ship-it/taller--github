@@ -2,3 +2,37 @@ body{
     background-color: aqua;
 
 }
+h1{
+    text-align: center;
+    margin-top: 50px;
+
+}
+th{
+    text-align: center;
+}
+img{
+    
+    
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+    
+
+}
+#millos{
+    margin-left: 200px;
+}
+#santafe{
+    margin-left: 200px;
+}
+td{
+    text-align: center;
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+
+}
