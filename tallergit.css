@@ -36,3 +36,23 @@ table{
     
 
 }
+#mensaje_millonarios{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+#mensaje_santafe{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+#descripcion_millonarios{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+#descripcion_santafe{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
